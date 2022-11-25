@@ -15,5 +15,17 @@
 | **Rank 2**                                                   | C | Exam Rank 2                                                     | **100** / 100 |
 
 ## Reloaded
-
+| Project | Language | Overview | Score |
+| :------ | :------: | :------: | :---: |
+| [**Go_Piscine_00**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_00)| Go |Mock admissions exam using Go.| **100** / 100 |
+| [**Go_Piscine_01**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_01)| Go |-| **100** / 100 |
+| [**Go_Piscine_02**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_02)| Go |-| **100** / 100 |
+| [**Go_Piscine_03**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_03)| Go |-| **100** / 100 |
+| [**Go_Piscine_04**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_04)| Go |-| **100** / 100 |
+| [**Go_Piscine_05**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_05)| Go |-| **100** / 100 |
+| [**Go_Piscine_06**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_06)| Go |-| **100** / 100 |
+| [**Go_Piscine_07**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_07)| Go |-| **100** / 100 |
+| [**Go_Piscine_08**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_08)| Go |-| **100** / 100 |
+| [**Go_Piscine_09**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_09)| Go |-| **74** / 100 |
+| [**Go_Advanced**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_Advanced)| Go |-| **100** / 100 |
 ---
