@@ -1,4 +1,4 @@
-# 42Tokyo
+# List of 42Tokyo's projects
 ## 42cursus
 
 | Project | Language | Overview | Score |
