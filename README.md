@@ -17,7 +17,7 @@
 ## Reloaded
 | Project | Language | Overview | Score |
 | :------ | :------: | :------: | :---: |
-| [**Go_Piscine_00**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_00)| Go |Mock admissions exam using Go.| **100** / 100 |
+| [**Go_Piscine_00**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_00)| Go |Mock admissions exam  Go.| **100** / 100 |
 | [**Go_Piscine_01**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_01)| Go |-| **100** / 100 |
 | [**Go_Piscine_02**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_02)| Go |-| **100** / 100 |
 | [**Go_Piscine_03**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_03)| Go |-| **100** / 100 |
