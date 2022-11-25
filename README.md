@@ -28,5 +28,5 @@
 | [**Go_Piscine_08**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_08)| Go |-| **100** / 100 |
 | [**Go_Piscine_09**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_09)| Go |-| **74** / 100 |
 | [**Go_Advanced**](https://github.com/hmakino8/42_Go_Piscine/tree/main/Go_Piscine_Advanced)| Go |-| **100** / 100 |
-| [**SQL_Workshop**](https://github.com/hmakino8/42_SQL_Workshop)| SQL |-| ---- |
+| [**SQL_Workshop**](https://github.com/hmakino8/42_SQL_Workshop)| PostgreSQL |-| ---- |
 ---
