@@ -14,8 +14,8 @@
 | [**Minishell**](https://github.com/hmakino8/42_Minishell)    | C | A project that implements an original shell similar to bash.    | **92** / 100 |
 ||||
 |**EXAM**|||
-| [**Exam Rank 02**]                                            | C | 42Tokyo's Exam(Rank2)                                           | **100** / 100 |
-| [**Exam Rank 03**]                                            | C | 42Tokyo's Exam(Rank3)                                           | **100** / 100 |
+| [**Exam Rank 02**]()                                          | C | 42Tokyo's Exam(Rank2)                                           | **100** / 100 |
+| [**Exam Rank 03**]()                                          | C | 42Tokyo's Exam(Rank3)                                           | **100** / 100 |
 
 ## Reloaded
 | Project | Language | Overview | Score |
