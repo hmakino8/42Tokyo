@@ -12,6 +12,7 @@
 | [**FdF**](https://github.com/hmakino8/42_FdF)| C | Representing a landscape as a 3D object.                                        | **125** / 125 |
 | [**Philosophers**](https://github.com/hmakino8/42_Philosophers)| C | Dining Philosophers Problem.                                  | **100** / 125 |
 | [**Minishell**](https://github.com/hmakino8/42_Minishell)    | C | A project that implements an original shell similar to bash.    | **92** / 125 |
+| [**NetPractice**](https://github.com/hmakino8/42_NetPractice)    | C | Exercises for understanding networking.    | **100** / 100 |
 ||||
 |**EXAM**|||
 | [**Exam Rank 02**]()                                          | C | 42Tokyo's Exam(Rank2)                                           | **100** / 100 |
