@@ -7,8 +7,8 @@
 | [**get_next_line**](https://github.com/hmakino8/42_get_next_line) | C | ファイルストリームから１行ずつ文字列を受け取る関数の実装　| **125** / 125 |
 | [**ft_printf**](https://github.com/hmakino8/42_ft_printf)    | C | printf/dprintf関数の再実装 | **125** / 125 |
 | [**Born2beroot**]()                                          | C | virtual boxを用いたシステム管理、mariaDB、wordpressのセットアップの基礎演習 | **125** / 125 |
-| [**pipex**](https://github.com/hmakino8/42_pipex)            | C | UNIXのパイプ、リダイレクトの実装 | **116** / 125 |
-| [**push_swap**](https://github.com/hmakino8/42_push_swap)    | C | 2つのスタック領域を用いたソートプログラムの実装　| **125** / 125 |
+| [**pipex**](https://github.com/hmakino8/42_pipex)            | C | UNIXのパイプ、リダイレクトの再実装 | **116** / 125 |
+| [**push_swap**](https://github.com/hmakino8/42_push_swap)    | C | 2つのスタック領域を用いたソートプログラム　| **125** / 125 |
 | [**FdF**](https://github.com/hmakino8/42_FdF)| C | 3D地形表示プログラムの実装 | **125** / 125 |
 | [**Philosophers**](https://github.com/hmakino8/42_Philosophers)| C | スレッド、プロセスを用いた哲学者の食事問題のシミュレーションプログラムの実装 | **100** / 125 |
 | [**Minishell**](https://github.com/hmakino8/42_Minishell)    | C | bashの再実装 | **92** / 125 |
