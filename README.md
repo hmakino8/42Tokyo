@@ -13,10 +13,12 @@
 | [**Philosophers**](https://github.com/hmakino8/42_Philosophers)| C | Dining Philosophers Problem.                                  | **100** / 125 |
 | [**Minishell**](https://github.com/hmakino8/42_Minishell)    | C | A project that implements an original shell similar to bash.    | **92** / 125 |
 | [**NetPractice**](https://github.com/hmakino8/42_NetPractice)    | C | Exercises for understanding networking.    | **100** / 100 |
+| [**cub3D**](https://github.com/hmakino8/42_cub3d)    | C | raytracing.    | **100** / 115 |
 ||||
 |**EXAM**|||
 | [**Exam Rank 02**]()                                          | C | 42Tokyo's Exam(Rank2)                                           | **100** / 100 |
 | [**Exam Rank 03**]()                                          | C | 42Tokyo's Exam(Rank3)                                           | **100** / 100 |
+| [**Exam Rank 04**]()                                          | C | 42Tokyo's Exam(Rank4)                                           | **100** / 100 |
 
 ## Reloaded
 | Project | Language | Overview | Score |
