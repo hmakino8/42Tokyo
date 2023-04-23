@@ -9,7 +9,7 @@
 | [**Born2beroot**]()                                          | C | virtual boxを用いたシステム管理、mariaDB、wordpressのセットアップの基礎演習 | **125** / 125 |
 | [**pipex**](https://github.com/hmakino8/42_pipex)            | C | UNIXのパイプ、リダイレクトの実装 | **116** / 125 |
 | [**push_swap**](https://github.com/hmakino8/42_push_swap)    | C | 2つのスタック領域を用いたソートプログラムの実装　| **125** / 125 |
-| [**FdF**](https://github.com/hmakino8/42_FdF)| C | 3Dでの地形表示プログラムの実装 | **125** / 125 |
+| [**FdF**](https://github.com/hmakino8/42_FdF)| C | 3D地形表示プログラムの実装 | **125** / 125 |
 | [**Philosophers**](https://github.com/hmakino8/42_Philosophers)| C |  | **100** / 125 |
 | [**Minishell**](https://github.com/hmakino8/42_Minishell)    | C | A project that implements an original shell similar to bash.    | **92** / 125 |
 | [**NetPractice**](https://github.com/hmakino8/42_NetPractice)    | C | Exercises for understanding networking.    | **100** / 100 |
