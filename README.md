@@ -3,17 +3,17 @@
 
 | Project | Language | Overview | Score |
 | :------ | :------: | :------- | :---: |
-| [**Libft**](https://github.com/hmakino8/42_Libft)            | C | Re-implementation of the C library.                             | **125** / 125 |
-| [**get_next_line**](https://github.com/hmakino8/42_get_next_line) | C | Function which returns a line read from a file descriptor. | **125** / 125 |
-| [**ft_printf**](https://github.com/hmakino8/42_ft_printf)    | C | Implement functions that mimic the original printf and dprintf. | **125** / 125 |
-| [**Born2beroot**]()                                          | C | Server setup with virtual box.                                  | **125** / 125 |
-| [**pipex**](https://github.com/hmakino8/42_pipex)            | C | Implement UNIX command pipe and redirect.                       | **116** / 125 |
-| [**push_swap**](https://github.com/hmakino8/42_push_swap)    | C | Sort data on a stack, with a limited set of instructions.       | **125** / 125 |
-| [**FdF**](https://github.com/hmakino8/42_FdF)| C | Representing a landscape as a 3D object.                                        | **125** / 125 |
-| [**Philosophers**](https://github.com/hmakino8/42_Philosophers)| C | Dining Philosophers Problem.                                  | **100** / 125 |
+| [**Libft**](https://github.com/hmakino8/42_Libft)            | C | 標準Cライブラリの再実装 | **125** / 125 |
+| [**get_next_line**](https://github.com/hmakino8/42_get_next_line) | C | ファイルストリームから１行ずつ文字列を受け取る関数の実装　| **125** / 125 |
+| [**ft_printf**](https://github.com/hmakino8/42_ft_printf)    | C | printf/dprintf関数の再実装 | **125** / 125 |
+| [**Born2beroot**]()                                          | C | virtual boxを用いたシステム管理、mariaDB、wordpressのセットアップの基礎演習 | **125** / 125 |
+| [**pipex**](https://github.com/hmakino8/42_pipex)            | C | UNIXのパイプ、リダイレクトの実装 | **116** / 125 |
+| [**push_swap**](https://github.com/hmakino8/42_push_swap)    | C | 2つのスタック領域を用いたソートプログラムの実装　| **125** / 125 |
+| [**FdF**](https://github.com/hmakino8/42_FdF)| C | 3Dでの地形表示プログラムの実装 | **125** / 125 |
+| [**Philosophers**](https://github.com/hmakino8/42_Philosophers)| C |  | **100** / 125 |
 | [**Minishell**](https://github.com/hmakino8/42_Minishell)    | C | A project that implements an original shell similar to bash.    | **92** / 125 |
 | [**NetPractice**](https://github.com/hmakino8/42_NetPractice)    | C | Exercises for understanding networking.    | **100** / 100 |
-| [**cub3D**](https://github.com/hmakino8/42_cub3d)    | C | raytracing.    | **100** / 115 |
+| [**cub3D**](https://github.com/hmakino8/42_cub3d)    | C | raytracing.    | **115** / 100 |
 ||||
 |**EXAM**|||
 | [**Exam Rank 02**]()                                          | C | 42Tokyo's Exam(Rank2)                                           | **100** / 100 |
