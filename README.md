@@ -14,7 +14,15 @@
 | [**minishell**](https://github.com/hmakino8/42_minishell)    | C | bashの再実装 | **92** / 125 |
 | [**NetPractice**](https://github.com/hmakino8/42_NetPractice)    | C | IPルーティングの基礎演習| **100** / 100 |
 | [**cub3D**](https://github.com/hmakino8/42_cub3d)    | C | レイキャスティング法を用いた3Dゲームの実装| **115** / 100 |
-| [**CPP_Module00**](https://github.com/hmakino8/42_cpp_module/cpp_module00)    | C | c++の基礎問題|　　　　　　　　/ 100 |
+| [**CPP_Module00**](https://github.com/hmakino8/42_cpp_module/cpp_module00)    | C | c++の基礎問題|　/ 100 |
+| [**CPP_Module01**](https://github.com/hmakino8/42_cpp_module/cpp_module01)    | C | c++の基礎問題|　/ 100 |
+| [**CPP_Module02**](https://github.com/hmakino8/42_cpp_module/cpp_module02)    | C | c++の基礎問題|　/ 100 |
+| [**CPP_Module03**](https://github.com/hmakino8/42_cpp_module/cpp_module03)    | C | c++の基礎問題|　/ 100 |
+| [**CPP_Module04**](https://github.com/hmakino8/42_cpp_module/cpp_module04)    | C | c++の基礎問題|　/ 100 |
+| [**CPP_Module05**](https://github.com/hmakino8/42_cpp_module/cpp_module05)    | C | c++の基礎問題|　/ 100 |
+| [**CPP_Module06**](https://github.com/hmakino8/42_cpp_module/cpp_module06)    | C | c++の基礎問題|　/ 100 |
+| [**CPP_Module07**](https://github.com/hmakino8/42_cpp_module/cpp_module07)    | C | c++の基礎問題|　/ 100 |
+| [**CPP_Module08**](https://github.com/hmakino8/42_cpp_module/cpp_module08)    | C | c++の基礎問題|　/ 100 |
 ||||
 |**EXAM**|||
 | [**Exam Rank 02**]()                                          | C | Exam(Rank2)                                           | **100** / 100 |
