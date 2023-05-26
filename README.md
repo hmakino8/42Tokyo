@@ -23,6 +23,7 @@
 | [**CPP_Module06**](https://github.com/hmakino8/42_cpp_module/cpp_module06)    | C | c++の基礎問題|　/ 100 |
 | [**CPP_Module07**](https://github.com/hmakino8/42_cpp_module/cpp_module07)    | C | c++の基礎問題|　/ 100 |
 | [**CPP_Module08**](https://github.com/hmakino8/42_cpp_module/cpp_module08)    | C | c++の基礎問題|　/ 100 |
+| [**CPP_Module09**](https://github.com/hmakino8/42_cpp_module/cpp_module09)    | C | c++の基礎問題|　/ 100 |
 ||||
 |**EXAM**|||
 | [**Exam Rank 02**]()                                          | C | Exam(Rank2)                                           | **100** / 100 |
